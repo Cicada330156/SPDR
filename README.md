@@ -1,2 +1,2 @@
 # SPDR
-Robotic spider for S&amp;R, and for learning
+Robotic spider for Search & Rescue, Building maintenance, etc., as well as for learning purposes.
